@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id		= "com.phonegap.getting.started"
+	id		= "UniAproko"
 	version 	= "1.0.0">
 
-	<name>PhoneGap: Getting Started</name>
+	<name>UniAproko</name>
 
 	<description>
-		A template for getting started with PhoneGap development and build.phonegap.com
+		A mobile app that brings the hottest campus gists around town to you 
 	</description>
 
-	<author href="http://alunny.github.com"
-		email="andrew.lunny@nitobi.com">
-		Andrew Lunny
+	<author href="http://fyzilcorp.gnbo.com.ng"
+		email="atanda.hafiz@gmail.com">
+		ATANDA Hafiz
 	</author>
 
 	<gap:platforms>
